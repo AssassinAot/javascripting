@@ -1,1 +1,1 @@
-console.log('Hello copy nul >');
+console.log('hello');

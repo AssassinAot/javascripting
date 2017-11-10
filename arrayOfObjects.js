@@ -59,9 +59,9 @@ console.log(filterRes);
 //     cost: 1000
 //   },
 //   {
-//     name: 'Jone Salad',
 //     place: 'esplanade',
 //     cost: 500
+//     name: 'Jone Salad',
 //   },
 //   {
 //     name: 'Swesens',

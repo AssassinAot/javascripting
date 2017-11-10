@@ -1,1 +1,2 @@
-var example = 'pizza is alright';
+var example = 'example string';
+console.log(example.length);
